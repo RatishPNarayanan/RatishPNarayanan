@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RatishPNarayanan
 - 👀 formerly AngelHack, Seedstars, Consensys, Gaia, Protocol Labs. over 10 years in AI, Web3, Startups, Crypto
-- 🌱 learning new fromtiers in tech
+- 🌱 learning new frontiers in tech
 - 💞️ I’m looking to collaborate anything in the AI, Robotics & Web3 space 
 - 📫 How to reach me www.twitter.com/@narayananratish
 
