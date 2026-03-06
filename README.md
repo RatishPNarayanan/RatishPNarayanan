@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RatishPNarayanan
-- 👀 I’m interested in DAO;s, Web3, Startups, Crypto
-- 🌱 I’m currently learning Web3
-- 💞️ I’m looking to collaborate on DAOs
+- 👀 formerly AngelHack, Seedstars, Consensys, Gaia, Protocol Labs. over 10 years in AI, Web3, Startups, Crypto
+- 🌱 learning new fromtiers in tech
+- 💞️ I’m looking to collaborate anything in the AI, Robotics & Web3 space 
 - 📫 How to reach me www.twitter.com/@narayananratish
 
 <!---
